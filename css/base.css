@@ -1,0 +1,42 @@
+*, h1, h2, h3, h4, p {
+    font-family: 'Open Sans', Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
+}
+
+#header {
+    background-color: #bc2026;
+    border-bottom: #f3a6a6 solid 2px;
+}
+
+#firstQuestion {
+    padding-top: 27px !important;
+}
+
+#appleStore {
+    width: 20%;
+    margin: 20px 0;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.question p {
+    font-weight: bold;
+    color: #96102b;
+}
+
+#copyright {
+    margin: 20px 0 40px 0;
+}
+
+img {
+    width: 100%;
+}
+
+.row {
+    margin: 88px 0;
+}
+
+.col-md-4 h3, col-md-4 p {
+    text-align: center;
+}
